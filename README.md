@@ -8,5 +8,5 @@ El repositorio consiste de dos partes:
 
 ## Resultados publicados en:
 
-[Análisis de contenido político en medios de comunicación en México mediante técnicas de NLP](https://www.researchgate.net/publication/322071277_Analisis_de_contenido_politico_en_medios_de_comunicacion_en_Mexico_mediante_tecnicas_de_NLP)
+[Análisis de contenido político en medios de comunicación en México mediante técnicas de NLP](https://www.researchgate.net/publication/322071277_Analisis_de_contenido_politico_en_medios_de_comunicacion_en_Mexico_mediante_tecnicas_de_NLP)  
 [Ellos nos informan, pero ¿quién nos informa sobre ellos?](https://tueleccion.org/blog-y-publicaciones/2018/analisis-medios-comunicacion)  
